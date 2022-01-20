@@ -21,16 +21,16 @@ There is 16 columns in the dataset. 3 of them describe the track: track's name, 
 
 The other 13 columns are the audio features of a track:
 
-acousticness.
-danceability.
-duration_ms.
-energy.
-instrumentalness.
-key.
-liveness.
-loudness.
-mode.
-speechiness.
-tempo.
+- acousticness.
+- danceability.
+- duration_ms.
+- energy.
+- instrumentalness.
+- key.
+- liveness.
+- loudness.
+- mode.
+- speechiness.
+- tempo.
 time_signature.
 valence.
